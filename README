@@ -1,0 +1,5 @@
+PyCrysFML
+
+A method of accessing the Crystallographic Fortran Modules Library from Python.
+
+Note that this has only been tested on Linux with the gfortran compiler!
